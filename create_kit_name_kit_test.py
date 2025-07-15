@@ -33,7 +33,7 @@ def test_2():
 # Prueba n°3
 def test_3():
     new_kit_body = get_kit_body("")
-    positive_assert(new_kit_body)
+    negative_assert_code_400(new_kit_body)
 
 # Prueba n°4
 def test_4():
@@ -57,8 +57,10 @@ def test_7():
 
 #Prueba n°8
 def test_8():
-    new_kit_body = {}
+    new_kit_body = data.kit_body.copy()
+    new_kit_body.pop("name")
     negative_assert_code_400(new_kit_body)
+
 
 # Prueba n°9
 def test_9():

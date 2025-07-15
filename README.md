@@ -13,7 +13,7 @@ solo una parte de esta, el campo "name" en la solicitud de creación de un kit d
 
 #Prueba 1 = 201/201 Pasa.
 #Prueba 2 = 201/201 Pasa.
-#Prueba 3 = 201/201 Pasa.
+#Prueba 3 = 400/201 NO PASA.
 #Prueba 4 = 201/400 NO PASA.
 #Prueba 5 = 201/201 Pasa.
 #Prueba 6 = 201/201 Pasa.
