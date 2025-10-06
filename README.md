@@ -1,12 +1,10 @@
 # Proyecto Urban Grocers 
 
-# Valentina Bravo Cea 
 # Sprint 7
 
-Urban grocers es un aplicación que permite al usuario hacer pedidos de artículos comestibles, el cual cada 
-usuario o usuaria puede elegir un kit ya creado por la misma aplicación o crear su propio kit.
-En este proyecto tenemos una pequeña lista de comprobación de 9 pruebas automatizadas para la verificación de 
-solo una parte de esta, el campo "name" en la solicitud de creación de un kit de productos.
+Urban Grocers es una aplicación orientada al comercio electrónico de productos comestibles, que permite a los usuarios realizar pedidos mediante la selección de kits prediseñados por la plataforma o la creación personalizada de kits según sus preferencias.
+
+Desde el área de aseguramiento de calidad, se ha implementado una lista de verificación compuesta por 9 pruebas automatizadas enfocadas exclusivamente en la validación del campo “nombre” dentro del formulario de creación de kits. Estas pruebas tienen como objetivo garantizar la correcta funcionalidad, integridad de datos y cumplimiento de criterios de entrada en esta sección crítica del flujo de usuario.
 
 
 # Resultado de las pruebas.
